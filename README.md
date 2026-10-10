@@ -16,7 +16,7 @@ It has no build step and no dependencies, apart from two Google Fonts loaded fro
 
 ## Featured project
 
-[Nigeria-Proverbs-LLM](https://github.com/nimibrai/Nigeria-Proverbs-LLM): a lightweight LLM fine-tuned from Meta's LLaMA using Hugging Face and LoRA, generating culturally contextual phrases.
+[Nigeria-Proverbs-LLM](https://github.com/nimibrai/Nigeria-Proverbs-LLM): a LoRA fine-tune of a LLaMA model on Yoruba, Igbo and Hausa proverbs, with a Gradio demo. I first built this in 2024 and rebuilt it in 2026 after the original files were lost.
 
 ## Run it locally
 
